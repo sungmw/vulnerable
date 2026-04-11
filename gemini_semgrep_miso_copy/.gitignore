@@ -1,0 +1,12 @@
+# API 키 보호
+config.py
+
+# Python
+__pycache__/
+*.pyc
+
+# 클론받은 레포들
+repos/
+
+# Docker
+.env
